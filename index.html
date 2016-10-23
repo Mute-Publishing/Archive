@@ -120,9 +120,8 @@ var processData = function(inData) {
     return inData;
 }
 
-
     /* gets the collection from zotero */
- $.getJSON('https://api.zotero.org/groups/384780/collections/EGZFBCVH/items?key=1L6PZcpcAGt60UArycW14g7v&limit=100&sort=title', function(incomingData) {
+ $.getJSON('https://api.zotero.org/groups/255696/collections/93KX44QJ/items?key=MZlYTFnonuiRyNAIkOQPBD0Uv&limit=100&sort=title', function(incomingData) {
      /* if the query succeeds, the response will be available as the variable “data”: */
      /* this variable is sent to the template above */
         var processedData = processData(incomingData);
