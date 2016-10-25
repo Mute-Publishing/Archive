@@ -136,7 +136,7 @@ p {
     float: left;
     padding-right: 10px;
     margin-bottom: 1em;
-    width: 27%;
+    width: 28%;
     min-height: 40px;
     -ms-word-break: break-all;
     word-break: break-all;
@@ -148,13 +148,13 @@ p {
 }
 .item-reference {
     float: left;
-    width: 73%;
+    width: 72%;
     min-height: 40px;
     margin-bottom: 1em;
 }
 .item-tags {
     float: left;
-    width: 27%;
+    width: 28%;
     min-height: 20px;
     padding-right: 10px;
     margin-bottom: 1em;
@@ -168,7 +168,7 @@ p {
 }
 .item-abstract {
     float: left;
-    width: 73%;
+    width: 72%;
     min-height: 200px;
     margin-bottom: 1em;
 }
