@@ -12,7 +12,9 @@ In setting up Zotero we'll cover these items, all you need to set you on your wa
 + Adding an external source, in this case a book but it could be anything
 
 ### A. Join the Mute Group
-1. Go to the  [Zotero website](https://www.zotero.org/).
+1. Go to the  [Zotero website](https://www.zotero.org/) and register. You'll need to verify your account via email and then login.
+
+
 
 
 ## Prototype Idea
