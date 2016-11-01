@@ -1,1 +1,6 @@
-# Information to follow shortly
+# Collaborative Bibliographies
+## Tech
+## Prototype Idea
+## Getting Started Guide
+
+
