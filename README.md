@@ -34,6 +34,8 @@ Not all of these parts have been employed and connected, but this is what is in 
 
 The modules are used to create a combination of DIY archive setup, flat file architecture option, and collaborative bibliography/sources.
 
+A little Zotero history | Roy Rosenzweig Center for History and New Media (RRCHNM) at George Mason University, Virginia, US http://chnm.gmu.edu/research-and-tools/ | Roy Rosenzweig memorial http://thanksroy.org/about
+
 Where possible software is free and open source.
 
 + DIY Scanning - ScanTailor, ScanBot (Android App)
@@ -60,4 +62,4 @@ Special thanks goes to Loraine Furter who made the software to connect Zotero an
 
 See the orginal 'Collaborative Library' prototype project here https://github.com/consortium/Collaborative-Libraries
 
-
+All content from Mute is anti-copyright. All other content and sofware is copyright the author and open and free under its existing licence.
