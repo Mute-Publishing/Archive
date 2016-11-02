@@ -15,3 +15,17 @@ Groups on Zotero are collaborative 'bibliography and sources' catalogs.
 2. On the Zotero website join the ['Mute group'](https://www.zotero.org/groups/mute). Navigate to the 'Group Library' and you will see all the items in the group.
 
 ### B. Add a Mute magazine article
+
+First find an article in the Mute Magazine Print Archive that you would like to add to the 'collaborative bibliography'. In this example we'll use the The Metamap. Have the articles webpage tab open in your browser.
+
+Then navigate to the folder you want to add it to in the Group Library and select it, you wil see the items already in the folder.
+
+The folders are arranges like so:
+
+```
+Archive/
+
+Archive/Experimental Writing/
+
+Archive/Financial Crisis/
+```
