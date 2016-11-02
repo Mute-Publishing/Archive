@@ -29,3 +29,6 @@ Archive/Experimental Writing/
 
 Archive/Financial Crisis/
 ```
+
+Now you can add your article using the green button about the title field of the item list.  First you will be prompted to select its item type, in this case choose 'Magazine Artcle', then you will be presented with a list of items, fill them out as best you can and save.
+
