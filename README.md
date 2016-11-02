@@ -45,7 +45,17 @@ Where possible software is free and open source.
 + Website - GitHub Pages
 
 ## Exhibition and Events
+The project has been kicked off by an residency at Anagram Books, Berlin, by Simon Worthington of Mute. See Facebook for details.
+
+The residency takes place over ten days, with an opening on the 18th Nov. Over the residency period a series of collaborative bibliographies will be made on the topics of 'experimental writing' and 'financial crisis' from the contents of Mute's archive. This will result in an online and offline catalogue. On the 25th Nov a workshop to expore and discuss the ideas will take place over the afternoon.
+
+It is anticipated that further events will follow at later dates.
 
 ## Acknowledgements
+The project is a collaboration between Mute and the Hybrid Publishign Group, with support from Anagram Books.
 
+The technical project is based on project lead by the Hybrid Publishing Group (HPG) for the BookCamping group at Media Lab Prado. HPG collaborated with Xm:lab to develop and produce the project and it was funded by 
 
+Special thanks goes to Loraine Furter who made the software to connect Zotero and GH Pages, as well as designing the interface.
+
+See the orginal 'Collaborative Library' prototype project here  
