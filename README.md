@@ -9,8 +9,7 @@ NB: This is a PROTOTYPE project, so expect glyches. Support requests, bugs, feat
 
 See the **[Getting Started Guide](https://github.com/Mute-Publishing/archive/blob/gh-pages/getting-started-guide.md)** for a step-by-step introductions.
 
-**Fast Track** - if you want to get cracking then follow these steps, make a [Zotero account](https://www.zotero.org/user/register/)
-, join the [Mute Group](https://www.zotero.org/groups/mute) and start editing items in the sub-folders of the [archive](https://www.zotero.org/groups/mute/items/collectionKey/93KX44QJ) folder. Then refresh the [Collaborative Bibliographies](https://mute-publishing.github.io/archive/) website and your items are live.
+**Fast Track** - if you want to get cracking then follow these steps, make a [Zotero account](https://www.zotero.org/user/register/), join the [Mute Group](https://www.zotero.org/groups/mute) and start editing items in the sub-folders of the [archive](https://www.zotero.org/groups/mute/items/collectionKey/93KX44QJ) folder. Then refresh the [Collaborative Bibliographies](https://mute-publishing.github.io/archive/) website and your items are live.
 
 ## Prototype Idea
 ## Tech
