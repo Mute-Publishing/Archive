@@ -38,3 +38,7 @@ To view youz new addition on the webite for the 'collaborative bibliography' loa
 
 Any item type can be added via the Zotero website as you just did with a Mute magazine article. But Zotero has other ways by which items can be address, a browser plugin, stand alone desktop version and mobile apps, details are on the Zotero download page.
 
+We'll use the browser plugin (['Beta 5.0p'](https://www.zotero.org/support/dev_builds#zotero_50_beta) for Firefox, Nov '16). The reason for using the broswer plugins and stand alone versions is that they have more functionality. In this way we want to show off 'add by identifier' where Zotero will auto-complete an items fields from external databases.
+
+
+
