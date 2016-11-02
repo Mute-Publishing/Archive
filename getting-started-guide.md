@@ -48,5 +48,16 @@ We'll use the browser plugin (['Beta 5.0p'](https://www.zotero.org/support/dev_b
 
 ### D. Adding Comments
 
+Cthere is aomments allow the use of full HTML which means you can add elaborate annotation and especially content from accross the Web, pictures, et al.
 
+Comments can be added as stand-alone notes or more usually associated to an item. Here we'll add a comment to an item The Metamap.
+
+1. In the Web interface of Zotero navigate to your item e.g. The Metamap['The Metamap'](https://www.zotero.org/groups/mute/items/collectionKey/IU5PRPJR/itemKey/V97823C5).
+2. Enable item editimg using the 'paper and pencil' button top, middle.
+3. Scroll to the bottom and click 'Add Note'. Here zou can edit away and add pictures using copy-paste as long as the image is on the web.
+
+
+
+
+1. Adding 
 
