@@ -21,10 +21,31 @@ See the **[Getting Started Guide](https://github.com/Mute-Publishing/archive/blo
 
 We want to explore what can be done with collaborative bibliographies in an open-web context and how this can be used to support the radical publishing community.
 
+Mute in collaboration with the Hybrid Publishing Group is using the Mute Magazine Print Archive as a basis for the overall project.
 
+Using the Zotero free and open source software as a basis we are looking at these example questsions;
 
-## Tech
-## Events and exhibition
++ Publication Remixing - trying out a different workflow production architecture for publication making. Putting aside the ususal process - idea, publisher, publication - and replacing it with - material, group, context = ?
++ Online Community Librarianship - creating expert content packages on a question or topic.
++ Road Testing Existing Tech Stack - looking at how existing modules can be bent to the projects ideas.
+
+## Tech Stack
+Not all of these parts have been employed and connected, but this is what is in mind.
+
+The modules are used to create a combination of DIY archive setup, flat file architecture option, and collaborative bibliography/sources.
+
+Where possible software is free and open source.
+
++ DIY Scanning - ScanTailor, ScanBot (Android App)
++ Image Deep Zooming and Deep Linking - IIIF and OpenLayers
++ File Storage - GitHub, GitHub LFS, BaseX
++ Transformation - Transpect, VivlioStyle
++ Editing, Workflow - Fidus Writer
++ Bibliography and Sources - Zotero
++ Website - GitHub Pages
+
+## Exhibition and Events
+
 ## Acknowledgements
 
 
