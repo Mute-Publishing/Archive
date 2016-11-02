@@ -1,5 +1,7 @@
 ## Getting Started Guide
 
+Note: move over intro and diagram once complete, and link back to READ ME!
+
 In setting up Zotero we'll cover these items, all you need to set you on your way;
 + Adding a Mute magazine article
 + Adding a comment
