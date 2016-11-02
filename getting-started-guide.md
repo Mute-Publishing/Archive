@@ -36,5 +36,5 @@ To view youz new addition on the webite for the 'collaborative bibliography' loa
 
 ### C. Adding other sources; books, or anything else.
 
-
+Any item type can be added via the Zotero website as you just did with a Mute magazine article. But Zotero has other ways by which items can be address, a browser plugin, stand alone desktop version and mobile apps, details are on the Zotero download page.
 
