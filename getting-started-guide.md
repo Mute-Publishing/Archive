@@ -32,3 +32,9 @@ Archive/Financial Crisis/
 
 Now you can add your article using the green button about the title field of the item list.  First you will be prompted to select its item type, in this case choose 'Magazine Artcle', then you will be presented with a list of items, fill them out as best you can and save.
 
+To view youz new addition on the webite for the 'collaborative bibliography' load the site https://mute-publishing.github.io/archive and your item will be in the appropriate list. Since we added The Metamap to Experimental Writing we can see it listed there.
+
+### C. Adding other sources; books, or anything else.
+
+
+
