@@ -54,8 +54,10 @@ It is anticipated that further events will follow at later dates.
 ## Acknowledgements
 The project is a collaboration between Mute and the Hybrid Publishign Group, with support from Anagram Books.
 
-The technical project is based on project lead by the Hybrid Publishing Group (HPG) for the BookCamping group at Media Lab Prado. HPG collaborated with Xm:lab to develop and produce the project and it was funded by 
+The technical project is based on project lead by the Hybrid Publishing Group (HPG) for the BookCamping group at Media Lab Prado. HPG collaborated with Xm:lab to develop and produce the project and it was funded as part of the Connecting Cities curatorial programme 2015.
 
 Special thanks goes to Loraine Furter who made the software to connect Zotero and GH Pages, as well as designing the interface.
 
-See the orginal 'Collaborative Library' prototype project here  
+See the orginal 'Collaborative Library' prototype project here https://github.com/consortium/Collaborative-Libraries
+
+
