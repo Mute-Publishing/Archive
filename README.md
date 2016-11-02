@@ -1,4 +1,6 @@
 # Collaborative Bibliographies
+An experimental project using the [Mute Magazine Print Archive](http://www.metamute.org/editorial/books/mute-magazine-print-archive) to look at archive remix-publishing, to accompany an [exhibition](https://www.facebook.com/events/187497858364325/) at Anagram Books, Berlin, Nov 2016.
+
 The setup connects Zotero (a collaborative sources manager) to a real-time, live updating, website using GitHub (a code repository). In a nutshell, edit items in Zotero and the website gets refreshed.
 
 NB: This is a PROTOTYPE project, so expect glyches. Support requests, bugs, feature requests - please post to the [issues](https://github.com/Mute-Publishing/archive/issues) area on GitHub in the menu-tab above.
@@ -14,6 +16,5 @@ NB: This is a PROTOTYPE project, so expect glyches. Support requests, bugs, feat
 ## Tech
 ## Events and exhibition
 ## Acknowledgements
-
 
 
