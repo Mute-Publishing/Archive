@@ -1,6 +1,6 @@
 ## Getting Started Guide
 
-Note: move over intro and diagram once complete, and link back to READ ME!
+For an overview of the project see the [READ ME!](README.md)
 
 In setting up Zotero we'll cover these items, all you need to set you on your way;
 + Adding a Mute magazine article
