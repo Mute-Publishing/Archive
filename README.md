@@ -1,7 +1,7 @@
 # READ ME!
 
 ## Collaborative Bibliographies
-An experimental project using the [Mute Magazine Print Archive](http://www.metamute.org/editorial/books/mute-magazine-print-archive) to look at archive remix-publishing, to accompany an [residency](https://www.facebook.com/events/187497858364325/) at Anagram Books, Berlin, Nov 2016. Two subject have been chosen for residency 'Experimental Writing' and 'Financial Crisis'. Online and offline collaborative bibliographies will be made on these topics using material from the Mute archive.
+An experimental project using the [Mute Magazine Print Archive](http://www.metamute.org/editorial/books/mute-magazine-print-archive) to look at archive remix-publishing, to accompany an [residency](https://www.facebook.com/events/187497858364325/) at Anagram Books, Berlin, Nov 2016. Two subject have been chosen for residency 'Experimental Writing' and 'Financial Crisis'. Online and offline collaborative bibliographies will be made on these topics using material from the Mute archive. Watch this space and join in '[Radical Publishing: The Mute Archive](https://mute-publishing.github.io/archive/)'.
 
 The setup connects Zotero (a collaborative sources manager) to a real-time, live updating, website using GitHub (a code repository). In a nutshell, edit items in Zotero and the website gets refreshed.
 
@@ -49,7 +49,7 @@ Where possible software is free and open source.
 + Website - GitHub Pages
 
 ## Exhibition and Events
-The project has been kicked off by a [residency](https://www.facebook.com/events/187497858364325/) at [Anagram Books](http://www.anagrambooks.com/), Berlin, by Simon Worthington of Mute.
+The project has been kicked off by a [residency](https://www.facebook.com/events/187497858364325/) titled '[Radical Publishing: The Mute Archive](https://mute-publishing.github.io/archive/)' at [Anagram Books](http://www.anagrambooks.com/), Berlin, by Simon Worthington of Mute.
 
 The residency takes place over ten days, with an opening on the 18th Nov. '16. Over the residency period a series of collaborative bibliographies will be made on the topics of 'experimental writing' and 'financial crisis' from the contents of Mute's archive. This will result in an online and offline catalogue. On the 25th Nov. a workshop will be held 'Publishing from the Archive' to expore and discuss the ideas around potentials for collaborative bibliographies and remix archive-publishing, as well as teaching on the use of Zotero.
 
