@@ -78,9 +78,9 @@ Comments allow the use of full HTML which means you can add elaborate annotation
 
 Comments can be added as stand-alone notes or more usually associated to an item. Here we'll add a comment to an item The Metamap.
 
-1. In the Web interface of Zotero navigate to your item e.g. The Metamap['The Metamap'](https://www.zotero.org/groups/mute/items/collectionKey/IU5PRPJR/itemKey/V97823C5).
+1. In the Web interface of Zotero navigate to your item e.g. ['The Metamap'](https://www.zotero.org/groups/mute/items/collectionKey/IU5PRPJR/itemKey/V97823C5).
 2. Enable item editing using the 'paper and pencil' icon top, middle.
-3. Scroll to the bottom of the edit window and click 'Add Note'. Here you can edit away and add pictures using copy-paste as long as the images can be accessed on the Web. Save and your done. Here is the example addition to ['The Metamap'](https://www.zotero.org/groups/mute/items/collectionKey/IU5PRPJR/itemKey/Q3EMXB8P).
+3. Scroll to the bottom of the edit window and click 'Add Note'. Here you can edit away and add pictures using copy-paste as long as the images can be accessed on the Web. Save and your done. Here is the example comment addition to ['The Metamap'](https://www.zotero.org/groups/mute/items/collectionKey/IU5PRPJR/itemKey/Q3EMXB8P).
 
 Zotero is feature rich. Please explore!
 
