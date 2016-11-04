@@ -9,8 +9,8 @@ The result is that we turn A into B.
 
 A. Zotero => B. Website
 
-<img src="screencapture-zotero-org-groups-mute-items-1478255002396.png" border="1" alt="Zotero" width="350">
-<img src="screencapture-mute-publishing-github-io-archive-1478255073392.png" border="5" alt="Coll Bib" width="350">
+<img src="screencapture-zotero-org-groups-mute-items-1478255002396.png" alt="Zotero" width="350">
+<img src="screencapture-mute-publishing-github-io-archive-1478255073392.png" alt="Coll Bib" width="350">
 
 NB: This is a PROTOTYPE project, so expect glitches - they're features not bugs :-) Support requests, bugs, feature requests - please post to the [issues](https://github.com/Mute-Publishing/archive/issues) area on GitHub in the menu-tab above.
 
