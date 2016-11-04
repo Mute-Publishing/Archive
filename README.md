@@ -7,10 +7,10 @@ The setup connects Zotero (a collaborative sources manager) to a real-time, live
 
 The result is that we turn A into B.
 
-A. Zotero B. Website
+A. Zotero => B. Website
 
-![Zotero](screencapture-zotero-org-groups-mute-items-1478255002396.png)
-![website](screencapture-mute-publishing-github-io-archive-1478255073392.png)
+![Zotero](screencapture-zotero-org-groups-mute-items-1478255002396.png =250x)
+![website](screencapture-mute-publishing-github-io-archive-1478255073392.png =250x)
 
 NB: This is a PROTOTYPE project, so expect glitches - they're features not bugs :-) Support requests, bugs, feature requests - please post to the [issues](https://github.com/Mute-Publishing/archive/issues) area on GitHub in the menu-tab above.
 
