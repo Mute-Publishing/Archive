@@ -4,9 +4,9 @@ For an overview of the project see the [READ ME!](README.md)
 
 In setting up the use of Collaborative Bibliographies using Zotero service we'll cover these three items, all you need to set you on your way;
 
-+ Adding a Mute magazine article
-+ Adding an external source, in this case a book, but it could be anything
-+ Adding a comment
++ adding a Mute magazine article
++ adding an external source, in this case a book, but it could be anything
++ adding a comment
 
 ### A. Join the Mute Zotero Group
 
