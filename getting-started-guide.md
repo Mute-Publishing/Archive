@@ -4,7 +4,7 @@
 
 For an overview of the project see the [READ ME!](README.md)
 
-An experimental project using the [Mute Magazine Print Archive](http://www.metamute.org/editorial/books/mute-magazine-print-archive) to look at archive remix-publishing, to accompany an [residency](https://www.facebook.com/events/187497858364325/) at Anagram Books, Berlin, Nov 2016.
+An experimental project using the [Mute Magazine Print Archive](http://www.metamute.org/editorial/books/mute-magazine-print-archive) to look at archive remix-publishing, to accompany an [residency](https://www.facebook.com/events/187497858364325/) at Anagram Books, Berlin, Nov 2016. Two subject have been chosen for residency 'Experimental Writing' and 'Financial Crisis'. Online and offline collaborative bibliographies will be made on these topics using material from the Mute archive. Watch this space and join in '[Radical Publishing: The Mute Archive](https://mute-publishing.github.io/archive/)'.
 
 The setup connects Zotero (a collaborative sources manager) to a real-time, live updating, website using GitHub (a code repository). In a nutshell, edit items in Zotero and the website gets refreshed.
 
