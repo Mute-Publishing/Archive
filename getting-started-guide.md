@@ -62,11 +62,11 @@ We'll use the browser plugin ['Beta 5.0'](https://www.zotero.org/support/dev_bui
 
 3. To synch your online Zotero account to your local browser click the green circular arrow as an icon to the top right of the Zotero window on the bottom half of your browser. Your content is now synched and this can be done at any time. Other users edits will show up in your local library when you synch.
 
-<img src="sync.png" alt="sync" width="550"
+<img src="sync.png" alt="sync" width="550">
 
 4. First navigate to the folder you want to add the item too. Then to add your book source enter the book ISBN into the 'add item by identifier' icon. This icon is a 'magic wand icon' on the Zotero top bar in browser. Zotero will add what fields it can and you can edit the rest.
 
-<img src="magic.png" alt="add by identifier" width="550"
+<img src="magic.png" alt="add by identifier" width="550">
 
 5. To finish your addition, synch Zotero. The refresh the 'collaborative bibliography' site and you will see your item on the site.
 
