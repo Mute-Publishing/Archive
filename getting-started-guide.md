@@ -15,7 +15,7 @@ The result is that we turn A into B. A. Zotero service => B. Website
 
 ## The Guide
 
-In setting up the use of Collaborative Bibliographies using Zotero service we'll cover these three items, all you need to set you on your way;
+In setting up the use of the Collaborative Bibliographies website based on the Zotero service we'll cover these three items, these will be all you need to set you on your way;
 
 + adding a Mute magazine article
 + adding an external source, in this case a book, but it could be anything
@@ -26,9 +26,9 @@ In setting up the use of Collaborative Bibliographies using Zotero service we'll
 Groups on Zotero are collaborative 'bibliography and sources' catalogs. 
 
 1. Go to the [Zotero website](https://www.zotero.org/) and register. You'll need to verify your account via email and then login.
-2. On the Zotero website join the ['Mute group'](https://www.zotero.org/groups/mute). Navigate to the 'Group Library' and you will see all the items in the group.
+2. On the Zotero website join the ['Mute group'](https://www.zotero.org/groups/mute). Navigate to the ['Group Library'](https://www.zotero.org/groups/mute/items) and you will see all the items in the group.
 
-### B. Add a Mute magazine article
+### B. Add a Mute Magazine Article
 
 First find an article in the Mute Magazine Print Archive that you would like to add to the 'collaborative bibliography'. In this example we'll use the The Metamap. Have the articles webpage tab open in your browser.
 
@@ -48,7 +48,7 @@ Now you can add your article using the green button about the title field of the
 
 To view youz new addition on the webite for the 'collaborative bibliography' load the site https://mute-publishing.github.io/archive and your item will be in the appropriate list. Since we added The Metamap to Experimental Writing we can see it listed there.
 
-### C. Adding other sources; books, or anything else.
+### C. Adding Other Sources; Books, or Anything Else.
 
 Any item type can be added via the Zotero website as you just did with a Mute magazine article. But Zotero has other ways by which items can be address, a browser plugin, stand alone desktop version and mobile apps, details are on the Zotero download page.
 
