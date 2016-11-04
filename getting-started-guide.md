@@ -64,11 +64,13 @@ We'll use the browser plugin ['Beta 5.0'](https://www.zotero.org/support/dev_bui
 
 <img src="sync.png" alt="sync" width="550">
 
-4. First navigate to the folder you want to add the item too. Then to add your book source enter the book ISBN, e.g. 9781 906496364 from the [Book Liberation Manifesto](https://research.consortium.io/docs/book_liberation_manifesto/Book_Liberation_Manifesto.html) (Worthington), into the 'add item by identifier' icon. This icon is a 'magic wand icon' on the Zotero top bar in browser. Zotero will add what fields it can and you can edit the rest.
+4. First navigate to the folder you want to add the item too. Then to add your book source enter the book ISBN, e.g. 9781906496364 from the [Book Liberation Manifesto](https://research.consortium.io/docs/book_liberation_manifesto/Book_Liberation_Manifesto.html) (Worthington), into the 'add item by identifier' icon. This icon is a 'magic wand icon' on the Zotero top bar in browser. Zotero will add what fields it can and you can edit the rest.
 
 <img src="magic.png" alt="add by identifier" width="550">
 
-5. To finish your addition, synch Zotero. The refresh the 'collaborative bibliography' site and you will see your item on the site.
+5. To finish your addition, synch Zotero. The refresh the collaborative bibliography website and you will see your item on the site.
+
+6. NB: If you place an item in the wrong folder in Zotero it can simply be moved by using the drag-and-drop function in the browser panel.
 
 ### D. Adding Comments
 
@@ -77,8 +79,8 @@ Comments allow the use of full HTML which means you can add elaborate annotation
 Comments can be added as stand-alone notes or more usually associated to an item. Here we'll add a comment to an item The Metamap.
 
 1. In the Web interface of Zotero navigate to your item e.g. The Metamap['The Metamap'](https://www.zotero.org/groups/mute/items/collectionKey/IU5PRPJR/itemKey/V97823C5).
-2. Enable item editimg using the 'paper and pencil' button top, middle.
-3. Scroll to the bottom and click 'Add Note'. Here you can edit away and add pictures using copy-paste as long as the image is on the web. Save and your done. Here is the example addition to ['The Metamap'](https://www.zotero.org/groups/mute/items/collectionKey/IU5PRPJR/itemKey/Q3EMXB8P).
+2. Enable item editing using the 'paper and pencil' icon top, middle.
+3. Scroll to the bottom of the edit window and click 'Add Note'. Here you can edit away and add pictures using copy-paste as long as the images can be accessed on the Web. Save and your done. Here is the example addition to ['The Metamap'](https://www.zotero.org/groups/mute/items/collectionKey/IU5PRPJR/itemKey/Q3EMXB8P).
 
 Zotero is feature rich. Please explore!
 
