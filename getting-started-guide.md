@@ -1,6 +1,19 @@
-## Getting Started Guide
+# Getting Started Guide
+
+## About Collaborative Bibliographies
 
 For an overview of the project see the [READ ME!](README.md)
+
+An experimental project using the [Mute Magazine Print Archive](http://www.metamute.org/editorial/books/mute-magazine-print-archive) to look at archive remix-publishing, to accompany an [residency](https://www.facebook.com/events/187497858364325/) at Anagram Books, Berlin, Nov 2016.
+
+The setup connects Zotero (a collaborative sources manager) to a real-time, live updating, website using GitHub (a code repository). In a nutshell, edit items in Zotero and the website gets refreshed.
+
+The result is that we turn A into B. A. Zotero service => B. Website
+
+<img src="screencapture-zotero-org-groups-mute-items-1478255002396.png" alt="Zotero" width="350">
+<img src="screencapture-mute-publishing-github-io-archive-1478255073392.png" alt="Coll Bib" width="350">
+
+## The Guide
 
 In setting up the use of Collaborative Bibliographies using Zotero service we'll cover these three items, all you need to set you on your way;
 
