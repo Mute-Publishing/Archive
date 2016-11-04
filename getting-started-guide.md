@@ -30,11 +30,11 @@ Groups on Zotero are collaborative 'bibliography and sources' catalogs.
 
 ### B. Add a Mute Magazine Article
 
-First find an article in the Mute Magazine Print Archive that you would like to add to the 'collaborative bibliography'. In this example we'll use the The Metamap. Have the articles webpage tab open in your browser.
+First find an article in the [Mute Magazine Print Archive](http://www.metamute.org/editorial/books/mute-magazine-print-archive) that you would like to add to the collaborative bibliography. In this example we'll use the [The Metamap](http://www.metamute.org/editorial/articles/metamap-pull-out-global-map-charting-surveillance-and-privacy-projects) article from Mute. Have the articles web page tab open in your browser.
 
-Then navigate to the folder you want to add it to in the Group Library and select it, you wil see the items already in the folder.
+On the Zotero website navigate to the folder you want to add it to in the Group Library and select it, you wil see the items already in the folder.
 
-The folders are arranges like so:
+The folders in the Mute Group for the collaborative bibliography are arranges like so:
 
 ```
 Archive/
@@ -44,9 +44,9 @@ Archive/Experimental Writing/
 Archive/Financial Crisis/
 ```
 
-Now you can add your article using the green button about the title field of the item list.  First you will be prompted to select its item type, in this case choose 'Magazine Artcle', then you will be presented with a list of items, fill them out as best you can and save.
+Now you can add your article using the green button above the title field of the item list.  First you will be prompted to select its item type, in this case choose 'Magazine Article', then you will be presented with a list of items, fill them out as best you can and save.
 
-To view youz new addition on the webite for the 'collaborative bibliography' load the site https://mute-publishing.github.io/archive and your item will be in the appropriate list. Since we added The Metamap to Experimental Writing we can see it listed there.
+To view your new addition on the webite for the collaborative bibliography load the site https://mute-publishing.github.io/archive and your item will be in the appropriate list. Since we added The Metamap to [Experimental Writing](https://mute-publishing.github.io/archive/experimental-writing.html) collection we can see it listed there.
 
 ### C. Adding Other Sources; Books, or Anything Else.
 
