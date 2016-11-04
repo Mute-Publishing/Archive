@@ -50,11 +50,11 @@ To view your new addition on the webite for the collaborative bibliography load 
 
 ### C. Adding Other Sources; Books, or Anything Else.
 
-Any item type can be added via the Zotero website as you just did with a Mute magazine article. But Zotero has other ways by which items can be added — a browser plugin, standalone desktop version and mobile apps — details are on the ([Zotero download](https://www.zotero.org/download/) page.
+Any item type can be added via the Zotero website as you just did with a Mute magazine article. But Zotero has other ways by which items can be added — a browser plugin, standalone desktop version and mobile apps — details are on the [Zotero download](https://www.zotero.org/download/) page.
 
-We'll use the browser plugin (['Beta 5.0p'](https://www.zotero.org/support/dev_builds#zotero_50_beta) for Firefox, Nov '16). The reason for using the broswer plugins and stand alone versions is that they have more functionality. In this way we want to show off 'add by identifier' where Zotero will auto-complete an items fields from external databases.
+We'll use the browser plugin ['Beta 5.0'](https://www.zotero.org/support/dev_builds#zotero_50_beta) for Firefox (Nov '16). The reason for using the browser plugin and standalone versions is that they have more functionality. In this case we want to show off 'add by identifier' where Zotero will auto-complete an items fields from external databases, when an identifier like ISBN, ISSN or DOI is used.
 
-1. Install the Zotero browser plugin of your choice. 
+1. Install the [Zotero browser plugin](https://www.zotero.org/download/) of your choice. 
 2. Then you need to log the browser plugin into your Zotero account you created earlier. In Firefox this is done via the Tools menu > Zotero (other browsers will do this differently). A Zotero window will appear at the bottom of your browser. Top left of this window is a cog icon, indicating preferences. Click on the cog, the dropmenu shows prefereneces as an option, select it and go to the sync tab and here you can input your user name and password.
 3. To synch your online Zotero account to your local browser click the green circular arrow as an icon to the top right of the Zotero window on the bottom half of your browser. Your content is now synched and this can be done at any time. Other users edits will show up in your local library when you synch.
 4. First navigate to the folder you want to add the item too. Then to add your book source enter the book ISBN into the 'add item by identifier' icon. This icon is a 'magic wand icon' on the Zotero top bar in browser. Zotero will add what fields it can and you can edit the rest.
