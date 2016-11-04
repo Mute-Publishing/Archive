@@ -8,7 +8,7 @@ The setup connects Zotero (a collaborative sources manager) to a real-time, live
 The result is that we turn A into B.
 
 A. Zotero => B. Website
-
+<img src="screencapture-zotero-org-groups-mute-items-1478255002396.png" alt="alt text" width="250">
 ![Zotero](screencapture-zotero-org-groups-mute-items-1478255002396.png | width=250)
 ![website](screencapture-mute-publishing-github-io-archive-1478255073392.png | width=250)
 
