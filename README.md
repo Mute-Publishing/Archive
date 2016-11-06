@@ -1,9 +1,9 @@
 # READ ME!
 
-## Collaborative Bibliographies
-An experimental project using the [Mute Magazine Print Archive](http://www.metamute.org/editorial/books/mute-magazine-print-archive) to look at archive remix-publishing, to accompany an [residency](https://www.facebook.com/events/187497858364325/) at Anagram Books, Berlin, Nov 2016. Two subject have been chosen for residency 'Experimental Writing' and 'Financial Crisis'. Online and offline collaborative bibliographies will be made on these topics using material from the Mute archive. Watch this space and join in '[Radical Publishing: The Mute Archive](https://mute-publishing.github.io/archive/)'.
+## Collaborative Bibliographies: Radical Publishing - The Mute Archive
+An experimental project using articles from the [Mute Magazine Print Archive](http://www.metamute.org/editorial/books/mute-magazine-print-archive) to look at archive remix-publishing, as part of a [residency](https://www.facebook.com/events/187497858364325/) at Anagram Books, Berlin, Nov 2016. Two subject have been chosen for residency 'Experimental Writing' and 'Financial Crisis'. Online and offline collaborative bibliographies will be made on these topics using material from the Mute archive. Watch this space '[Radical Publishing: The Mute Archive](https://mute-publishing.github.io/archive/)' — join in, contribute or drop in .
 
-The setup connects Zotero (a collaborative sources manager) to a real-time, live updating, website using GitHub (a code repository). In a nutshell, edit items in Zotero and the website gets refreshed.
+The online collaborative bibiographies setup connects Zotero (a collaborative sources manager) to a real-time, live updating, website using GitHub (a code repository). In a nutshell, if you edit items in Zotero and the website gets refreshed.
 
 The result is that we turn A into B. A. Zotero service => B. Website
 
