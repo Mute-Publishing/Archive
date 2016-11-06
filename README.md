@@ -8,7 +8,7 @@ The online collaborative bibiographies setup connects Zotero (a collaborative so
 The result is that we turn A into B. A. Zotero service => B. Website
 
 <img src="screencapture-zotero-org-groups-mute-items-1478255002396.png" alt="Zotero service" width="400">
-<img src="screencapture-mute-publishing-github-io-archive-1478255073392.png" alt="Coll Bib" width="400" caption="hello">
+<img src="screencapture-mute-publishing-github-io-archive-1478255073392.png" alt="Coll Bib" width="400">
 
 NB: This is a PROTOTYPE project, so expect glitches - they're features not bugs :-). Support requests, bugs, feature requests - please post to the [issues](https://github.com/Mute-Publishing/archive/issues) area on GitHub in the menu-tab above.
 
