@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+    <link rel="shortcut icon" href="http://www.metamute.org/sites/www.metamute.org/files/mute-magazine-monogram.ico" type="image/x-icon"/>
+    <link rel="icon" href="http://www.metamute.org/sites/www.metamute.org/files/mute-magazine-monogram.ico" type="image/x-icon"/>
+    <!-- GENERAL METADATA: -->
+<meta charset="utf-8" />
+<!-- character encoding -->
+<meta name="keywords" content="collaborative, bibliography, radical, mute, magazine, anagram books, hybrid, prototype, publishing, archive, hpg, berlin"/>
+<!-- keywords for search engines: each keyword separated by a comma (~10 is a good number) -->
+<meta name="description" content="collaborative bibliography with Mute Magazine Print Archive on the topics of experimental wring and finacial crisis"/>
+<!-- description of the web page -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<!-- specifies a version of Internet Explorer -->
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<!-- responsive -->
+
+<!-- DUBLIN CORE: -->
+<meta name="DC.title" content="Radical Publishing: The Mute Magazine Print Archive"/>
+<meta name="DC.contributor" content="Hybrid Publishing Group"/>
+<!-- person/organization responsible for making contributions to the content of the resource -->
+<meta name="DC.creator" content="Simon Worthington" />
+<!-- person/organization responsible for making the content of the resource -->
+<meta name="DC.publisher" content="Mute Publishing"/>
+<!-- person/organization responsible for making the resource available -->
+<meta name="DC.subject" content="collaborative, bibliography, radical, mute, magazine, anagram books, hybrid, prototype, publishing, archive, hpg, berlin">
+<!-- comma separated (can be more than the keywords) -->
+<link rel="shortcut icon" href="http://www.metamute.org/sites/www.metamute.org/files/mute-magazine-monogram.ico" type="image/x-icon"/>
+    <link rel="icon" href="http://www.metamute.org/sites/www.metamute.org/files/mute-magazine-monogram.ico" type="image/x-icon"/>
+    <!-- GENERAL METADATA: -->
+    <meta charset="utf-8" />
+    <!-- character encoding -->
+    <meta name="keywords" content="collaborative, bibliography, radical, mute, magazine, anagram books, hybrid, prototype, publishing, archive, hpg, berlin"/>
+    <!-- keywords for search engines: each keyword separated by a comma (~10 is a good number) -->
+    <meta name="description" content="collaborative bibliography with Mute Magazine Print Archive on the topics of experimental wring and finacial crisis"/>
+    <!-- description of the web page -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <!-- specifies a version of Internet Explorer -->
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <!-- responsive -->
+
+    <!-- DUBLIN CORE: -->
+    <meta name="DC.title" content="Radical Publishing: The Mute Magazine Print Archive"/>
+    <meta name="DC.contributor" content="Hybrid Publishign Group"/>
+    <!-- person/organization responsible for making contributions to the content of the resource -->
+    <meta name="DC.creator" content="Simon Worthington" />
+    <!-- person/organization responsible for making the content of the resource -->
+    <meta name="DC.publisher" content="Mute Publishing"/>
+    <!-- person/organization responsible for making the resource available -->
+    <meta name="DC.subject" content="collaborative, bibliography, radical, mute, magazine, anagram books, hybrid, prototype, publishing, archive, hpg, berlin">
+    <!-- comma separated (can be more than the keywords) -->
+    <meta name="DC.description.abstract" content="collaborative bibliography with Mute Magazine Print Archive on the topics of experimental wring and finacial crisis"/>
+    <meta name="DC.date" scheme="W3CDTF"  content="2016-11-01"/>
+    <!-- date of creation or availability of the resource: yyyy-mm-dd -->
+    <meta name="DC.type" content="bibliography"/>
+    <!-- = book / blogPost / artwork / bookSection / audioRecording / presentation (cf Zotero’s types)  -->
+    <meta name="DC.format" content="text/html"/>
+    <meta name="DC.identifier" content="1356-7748"/>
+    <!-- for instance: URL / URI / DOI (Digital Object Identifier) / ISBN / ISSN / … -->
+    <meta name="DC.identifier.URL" content="https://mute-publishing.github.io/archive/"/>
+    <meta name="DC.language" content="eng"/>
+    <!-- RFC3066 + ISO 639-3 language standard: http://en.wikipedia.org/wiki/ISO_639:a -->
+    <meta name="DC.source" content="http://http://www.metamute.org/archive">
+    <!-- link to a resource from which the present resource is derived -->
+    <meta name="DC.relation" content="https://www.zotero.org/groups/255696"/>
+    <!-- reference to a related resource (using its identifier) -->
+    <meta name="DC.rights" content="anti-copyright"/>
+    <meta name="DC.bibliographicCitation" content="use a Chicago Manual of Style citation"/> <!-- doesn’t need editing -->
+
+    <!-- FACEBOOK: -->
+    <meta property="og:url" content="https://mute-publishing.github.io/archive/"/>
+    <meta property="og:title" content="Radical Publishing: The Mute Magazine Print Archive"/>
+    <meta property="og:image" content="http://www.metamute.org/sites/www.metamute.org/files/styles/three-col/public/field/image/archive-grid-mansory.jpg?itok=aCV7qKk1"/>
+    <!-- generic image: the best is 1200 x 630px for big images, or 100px by 100px -->
+    <meta property="og:site_name" content="Radical Publishing: The Mute Magazine Print Archive"/>
+    <meta property="og:description" content="collaborative bibliography with Mute Magazine Print Archive on the topics of experimental wring and finacial crisise"/>
+    <meta property="og:type" content="webPage" />
+
+<title>Radical Publishing: The Mute Archive</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="fonts/webfont.css">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<script src="js/handlebars-1.0.rc.1.js"></script>
+<script src="js/jquery-1.7.2.min.js"></script>
+
+<!-- it takes the list that is called items in the JSON response (data) (to access it go to the url api.zotero.org/… bleow) and puts them in the template -->
+
+<script id="entry-template" type="text/x-handlebars-template">
+{{#each items}}
+    <div class="one-item {{#if data.parentItem}} attached-note {{/if}} {{#if data.itemType.note}} independent-note {{/if}}">
+        <!-- # is used to only output the data if they exist -->
+        <div class="item-type">{{#if data.parentItem}} &#10549; ATTACHED-<br />{{/if}}{{{ data.itemType }}}</div>
+        <div class="item-reference"><em>{{ data.title }}</em>{{#if data.creators}}{{#each data.creators}}, {{ firstName }} {{ lastName }}{{/each}}{{/if}}{{#if data.publisher}}, {{ data.publisher }}{{/if}}{{#if data.date}}, {{ data.date }}{{/if}}</div>
+        <div class="item-tags">{{#if data.tags}}Tags:<br />{{#each data.tags}}<p>{{ tag }}</p>{{/each}}{{/if}}</div>
+        <div class="item-abstract">
+            {{#if data.abstractNote}}<p>Abstract: {{ data.abstractNote }}</p>{{/if}}
+            <p>{{{ data.note }}}</p>
+        </div>
+        <div class="item-link">
+            {{#if data.url}}<p>Link: <a href="{{ data.url }}" target="_blank">{{ data.url }}</a></p>{{/if}}
+        </div>
+        <div class="card-hole">&#10061;</div>
+    </div>
+{{/each}}
+</script>
+
+
+
+<script>
+$(function() {
+    /* takes the entry-template element */
+    var source = $("#entry-template").html();
+    /* the jquery library Handelbars converts the template text into a template object*/
+    var template = Handlebars.compile(source);
+
+/* TO ADD A TITLE WHEN THERE IS NO TITLE
+(but it doesn’t change the way it is ordered…)
+    var processData = function(inData) {
+        var outData = [];
+        for (var i=0; i < inData.length; i++) {
+            item = inData[i];
+            // do things with item
+            if (!item.data.title) {
+                item.data.title = "Here is a title!"
+            }
+            outData.push(item);
+        }
+        return outData;
+    }
+*/
+
+
+var processData = function(inData) {
+    var obj = {}
+    for (var i=0; i < inData.length; i++) {
+        item = inData[i];
+        // do things with item
+        // create a new way of ordering things, easier to use
+        // (not as a list like before but as an ‘object’ ~ dictionnary)
+        obj[item.data.key] = item;
+    }
+    //TO ORDER THINGS IN A SPECIFIC WAY
+    var getSortString = function(item) {
+        if (!item.data.title) {
+            if (item.data.parentItem) {
+                return obj[item.data.parentItem].data.title + item.data.note;
+            } else {
+                return item.data.note;
+            }
+        }
+        return item.data.title;
+    }
+    //takes everytime two objects of the array and compares them
+    inData.sort(function(a, b) {
+        a = getSortString(a);
+        b = getSortString(b);
+        if (a === b) return 0;
+        if (a < b) return -1;
+        if (a > b) return 1;
+    });
+    return inData;
+}
+
+
+    /* gets the collection from zotero */
+ $.getJSON('https://api.zotero.org/groups/255696/collections/87C632QA/items?key=MZlYTFnonuiRyNAIkOQPBD0U&limit=100&sort=title', function(incomingData) {
+     /* if the query succeeds, the response will be available as the variable “data”: */
+     /* this variable is sent to the template above */
+        var processedData = processData(incomingData);
+        $("#items-container").html(template({ items: processedData }));
+    });
+});
+
+
+</script>
+
+<div class="container">
+<h1><a href="index.html">Radical Publishing<br />The Mute Archive</a></h1>
+    <h2>A Manifesto for Cyborgs by Donna J Haraway</h2>
+    <div class="text-welcome"><a href="https://www.zotero.org/groups/mute/items/collectionKey/87C632QA">View the Zotero collection</a></div>
+
+
+<div id="items-container">
+
+</div>
+
+
+    <!-- TEST OFFLINE
+
+
+    <div class="one-item">
+        <div class="item-type">note</div>
+        <div class="item-reference"><em>_</em></div>
+        <div class="item-tags">tag1</div>
+        <div class="item-abstract"><p>Abstract: </p>
+            <p>An independent note.
+            This is the content of the note blabla bla…</p>
+        </div>
+        <div class="card-hole">●</div>
+    </div>
+
+    <div class="one-item">
+        <div class="item-type">book</div>
+        <div class="item-reference"><em>A Book Title</em>, First Name Last Name, Publisher, 2015</div>
+        <div class="item-tags"><p>tag1</p><p>tag2</p></div>
+        <div class="item-abstract"><p>Abstract: </p>
+            <p> (?)</p>
+        </div>
+        <div class="card-hole">●</div>
+    </div>
+
+    <div class="one-item attached-note">
+        <div class="item-type">note</div>
+        <div class="item-reference"><em>_</em></div>
+        <div class="item-tags">tag1</div>
+        <div class="item-abstract"><p>Abstract: </p>
+            <p>A note linked to the computer program item.
+    The content blablabla…</p>
+    <p>A note linked to the computer program item.
+The content blablabla…</p>
+<p>A note linked to the computer program item.
+The content blablabla…</p>
+<p>A note linked to the computer program item.
+The content blablabla…</p>
+        </div>
+        <div class="card-hole">●</div>
+    </div>
+-->
+
+</div>
+
+    <p style="text-align: center; margin-top: 600px; padding-top: 30px;"><a href="https://github.com/Mute-Publishing/archive" target="_blank">Fork the GitHub project and create your own collaborative bibliography</a></p>
