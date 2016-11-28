@@ -45,7 +45,7 @@ Where possible software is free and open source.
 + Transformation - Transpect, VivlioStyle
 + Editing, Workflow - Fidus Writer
 + Bibliography and Sources - Zotero
-+ Metamdata - Ontotext
++ Metadata - Ontotext
 + Website - GitHub Pages, Jekyll
 + Interactive UI - Hybrid Player (HPG) and TimeLineJS (knight lab)
 
