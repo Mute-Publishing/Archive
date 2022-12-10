@@ -4,7 +4,7 @@
 
 The [Mute Archive Plan](mute-archive-plan.md) (2022/23) covers archiving Mute's work, publications, and projects. 
 
-See the '[discussion](https://github.com/orgs/Mute-Publishing/discussions)', '[Project Tasks](https://github.com/orgs/Mute-Publishing/projects/1), and [Guide to archiving](mute-archive-guide.md)
+See the '[Discussion](https://github.com/orgs/Mute-Publishing/discussions)', '[Project Tasks](https://github.com/orgs/Mute-Publishing/projects/1), and [Mute Archive Guide](mute-archive-guide.md).
 
 ## Collaborative Bibliographies: Radical Publishing - The Mute Archive
 An experimental project using articles from the [Mute Magazine Print Archive](http://www.metamute.org/editorial/books/mute-magazine-print-archive) to look at archive remix-publishing, as part of a [residency](https://www.facebook.com/events/187497858364325/) at Anagram Books, Berlin, Nov 2016. Two subject have been chosen for residency 'Experimental Writing' and 'Financial Crisis'. Online and offline collaborative bibliographies will be made on these topics using material from the Mute archive. Watch this space '[Radical Publishing: The Mute Archive](https://mute-publishing.github.io/archive/)' — join in, contribute or drop in .
