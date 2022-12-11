@@ -2,7 +2,7 @@
 
 # Mute Archive Plan
 
-The [Mute Archive Plan](mute-archive-plan.md) (2022/23) covers archiving Mute's work, publications, and projects. 
+The [Mute Archive Plan](https://demo.hedgedoc.org/s/glrS0p_3O) (2022/23) covers archiving Mute's work, publications, and projects. 
 
 See the '[Discussion](https://github.com/orgs/Mute-Publishing/discussions)', '[Project Tasks](https://github.com/orgs/Mute-Publishing/projects/1), and [Mute Archive Guide](mute-archive-guide.md).
 
